@@ -1,0 +1,43 @@
+body {
+  background-color: #fcf4d9;
+}
+
+h1 {
+  text-align: center;
+  padding: 15px;
+  color: #000;
+}
+
+p {
+  text-align: center;
+  display: block;
+  max-width: 1200px;
+  color: #000;
+}
+
+.navigation-links {
+  text-align: center;
+  padding: 20px;
+}
+
+.navigation-links a {
+  margin: 0 10px;
+  color: #9896f1;
+}
+
+.croissant-img {
+  display: block;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+.email-link {
+  text-decoration: none;
+  color: #f48db4;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+  color: #ec729c;
+}
